@@ -1,0 +1,23 @@
+body {
+    margin: 200px 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box,
+.bbox {
+    height: 450px;
+    margin: 15px;
+    margin-bottom: 50px;
+    width: 30%;
+}
+
+.bbox{
+    width:80%;
+}
+
+.box{
+    width:40%;
+}
